@@ -1,8 +1,0 @@
-## Docs & Diagrams Content Map
-
-  docs/
-├── README.md               ### Public-facing docs index & quickstarts
-├── backend/                ### Internal architecture, state gateways, & protocol specs
-│   └── README.md
-└── diagrams/               ### Visual grammar, patent drawing specs, & SVG assets
-    └── README.md
