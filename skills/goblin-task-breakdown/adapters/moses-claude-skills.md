@@ -1,6 +1,6 @@
 # Bridge to mosesliao/claude-skills
 
-[`mosesliao/claude-skills`](https://github.com/mosesliao/claude-skills) and the Vulpes Velox Skills Suite use the same portable unit: a named folder containing `SKILL.md` and optional supporting directories.
+[`mosesliao/claude-skills`](https://github.com/mosesliao/claude-skills) and the Vulpes Velox Skills Suite use the same portable unit: a named folder containing `SKILL.md` and optional supporting directories. See: https://github.com/Tess600/VveloxLabs/tree/main/skills
 
 ## Relationship
 
