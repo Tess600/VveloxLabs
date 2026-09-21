@@ -6,12 +6,12 @@ This repository is the early public workspace for V.velox transparency tooling, 
 
 ## Projects
 
-* **Vulpes Velox Skills Suite** — Open-source consulting aides with portable Claude skill folders and explicit human/agent safety boundaries. The first skill, [`goblin-task-breakdown`](./skills/goblin-task-breakdown/), turns vague or blocked work into a stable executable task graph. It is compatible with the folder contract used by [Moses Liao's `claude-skills`](https://github.com/mosesliao/claude-skills); see the [bridge note](./skills/goblin-task-breakdown/adapters/moses-claude-skills.md).
-* **PROMPT™** — A human-first interaction framework and structured schema for LLMs, AI agents, and agentic workflows. Repository: [Tess600/PROMPT](https://github.com/Tess600/PROMPT)
-* **RAAUE / RRAAUEE** — Context-continuity and human-in-the-loop protocols for iterative and agentic AI workflows. Companion frameworks to PROMPT™.
+* **Vulpes Velox Skills Suite** — Open-source and proprietary tools and consulting aides with portable Claude skill folders and explicit human/agent safety boundaries.
+  * **Task Breakdown Skill** — The first skill, [`goblin-task-breakdown`](./skills/goblin-task-breakdown/), turns ambiguous task language into a stable executable task graph. Compatible with the folder contract used by my colleague, [Moses Liao's `claude-skills`](https://github.com/mosesliao/claude-skills); see the [bridge note](./skills/goblin-task-breakdown/adapters/moses-claude-skills.md).
+* **AI Framework Schema** — A human-first interaction framework and structured context schema for LLMs, autonomous agents, and agentic workflows (runtime embodiment).
+* **Human-in-the-Loop Protocols** — State-gated context continuity and human-in-the-loop protocols for iterative and recursive agentic pipelines (runtime embodiment).
 * **AI Lblr** — A transparency label and badging model for AI-legible public web systems.
-* **Sweet Suite** — A public web root-file kit for AI Legibility, including Sweet Web Root Files such as `robots.txt`, `sitemap.xml`, `llms.txt`, `schema.jsonld`, and `nermaid.mmd`.
-
+* **Sweet Suite** — A public web root-file kit for AI Legibility, including Sweet Web Root Files such as `robots.txt`, `sitemap.xml`, `llms.txt`, `schema.jsonld`, and `mermaid.js`.
 ## Focus areas
 
 * AI Legibility
