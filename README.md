@@ -1,8 +1,8 @@
-# V.velox Ltd.
+# Vvelox Labs
 
-V.velox Ltd. (“Vee Velox”) is an AI consulting and frameworks lab focused on Information Architecture, AI Legibility, and human-AI Semantic Interaction Architecture.
+VeloxLabs (“Vellox”) is an AI tooling and frameworks lab attached to the San Francisco advisory practice Velox Intelligence, focused on Information Architecture, AI Legibility, and human-AI Semantic Interaction Architecture.
 
-This repository is the early public workspace for V.velox transparency tooling, consulting aides, and public web legibility systems.
+This repository is the early public workspace for Vvelox's tooling, consulting aides, and public web legibility systems.
 
 ## Projects
 
