@@ -1,4 +1,4 @@
-docs/
+##### docs/
 ├── README.md               # Public-facing docs index & quickstarts
 ├── backend/                # Internal architecture, state gateways, & protocol specs
 │   └── README.md
