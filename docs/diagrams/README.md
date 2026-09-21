@@ -1,3 +1,12 @@
+```text
+docs/
+├── README.md               # Public-facing docs index & quickstarts
+├── backend/                # Internal architecture, state gateways, & protocol specs
+│   └── README.md
+└── diagrams/               # Visual grammar, patent drawing specs, & SVG assets
+    └── README.md
+```
+----
 # VeloxLabs Diagram & Patent Drawing Grammar
 
 Unified visual and architectural grammar for VeloxLabs system diagrams across web documentation, technical specifications, and patent filings.
@@ -129,14 +138,7 @@ Diagrams maintain a strict distinction between generic functional claims (patent
 
 > **State Invariant:** Transcripts represent transient session context. Persistent canonical state is never mutated directly by model inference; all state updates require deterministic gating via the RAAUE pathway (`Add` → `Ask` → `Update`).
 ---
-```text
-docs/
-├── README.md               # Public-facing docs index & quickstarts
-├── backend/                # Internal architecture, state gateways, & protocol specs
-│   └── README.md
-└── diagrams/               # Visual grammar, patent drawing specs, & SVG assets
-    └── README.md
-```
+
 ## 5. Asset Export Pipeline
 * **Master Working Asset (`.svg`):** Maintained with editable text tags adhering to typography standards.
 * **Formal / Patent Export (`.svg` / `.pdf`):** Convert all typography to vector paths (`Cmd/Ctrl + Shift + O` in Illustrator/Figma) prior to publication to guarantee zero font substitution. 
