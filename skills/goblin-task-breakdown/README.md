@@ -4,9 +4,9 @@ An open-source Vulpes Velox consulting aide that converts vague, blocked, or ove
 
 It is designed for consultants, neurodivergent professionals, and anyone who needs a plan they can begin without planning again.
 
-## What makes it different
+## What makes it so spicy...
 
-- Preserves canonical intent, stable IDs, decisions, and completed work.
+- Preserves canonical (the standardized)intent, stable IDs, decisions, and completed work.
 - Separates granularity from emotional friction, energy, and duration.
 - Compiles brain dumps without turning every thought into a commitment.
 - Produces both a progressively disclosed human view and structured JSON.
